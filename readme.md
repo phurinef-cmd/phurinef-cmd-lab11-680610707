@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ภูรินท์ แบนสุภา
 
-GitHub Page URL :
+GitHub Page URL : https://phurinef-cmd.github.io/phurinef-cmd-lab11-680610707/
 
 ---
 
